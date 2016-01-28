@@ -1,7 +1,6 @@
 from rest_framework import serializers
 from .models import Question
 from django.contrib.auth.models import User
-import uuid
 
 
 
